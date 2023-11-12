@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "8536679f9668d655",
+    "type": "split",
+    "children": [
+      {
+        "id": "3eda36dc5b0e4de8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e3015368e5f816e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++/项目/CMU15445/SQL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9fb304a9caa73956",
+    "type": "split",
+    "children": [
+      {
+        "id": "956ff3285e6240f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00d73bfbd9508ef7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e41343c77c812ebe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#excalidraw",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "be6718f16c6eb04f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "c9e2c7bf88c219df",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "C++/项目/CMU15445/SQL.md"
+              }
+            }
+          },
+          {
+            "id": "3469086840ec26cd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 284.5
+  },
+  "right": {
+    "id": "bc1be1756eb2833a",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b7b2cbe386ce6bb",
+        "type": "tabs",
+        "dimension": 39.80263157894737,
+        "children": [
+          {
+            "id": "cb0b4a0e5b95f32a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "53acca9e73ea5e38",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "fcac1652a9dcb2f8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "C++/项目/CMU15445/SQL.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4e17b9f94dc8a2b7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "C++/项目/CMU15445/SQL.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "14e779c670465f59",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "da8b936e37802816",
+        "type": "tabs",
+        "dimension": 60.19736842105263,
+        "children": [
+          {
+            "id": "a4f6793b1af54801",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "C++/项目/CMU15445/SQL.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 294.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "2e3015368e5f816e",
+  "lastOpenFiles": [
+    "Shell && bash.md",
+    "数据库/MySQL 必知必会.md",
+    "数据库/基础概念.md",
+    "2023-11-01.md",
+    "算法/搜索与图论/最短路算法.md",
+    "图片/Pasted image 20231031010648.png",
+    "数据库/索引.md",
+    "数据库/未命名.md",
+    "数据库/优化器/开源优化器.md",
+    "数据库/GreenPlum.md",
+    "数据库/优化器",
+    "大数据",
+    "大数据/Hadoop",
+    "算法/图.md",
+    "CMAKE.md",
+    "VIM学习.md",
+    "公司/星环实习",
+    "公司",
+    "英语.md",
+    "C++/项目/CMU15445/lab笔记/Lab3 查询执行.md",
+    "读书笔记",
+    "图片/Pasted image 20231028012848.png",
+    "图片/Pasted image 20231028012621.png",
+    "C++/项目/CMU15445/SQL.md",
+    "C++/项目/CMU15445/lab笔记/lab1 Buffer Pool.md",
+    "C++/项目/CMU15445/lab笔记/lab0字典树.md",
+    "MIT6.824/8 ZooKeeper.md",
+    "C++/项目/CMU15445/lab笔记/源码阅读.md",
+    "算法/排序算法.md",
+    "源码阅读/muduo/muduo源码阅读笔记.md",
+    "算法/位运算.md",
+    "C++/项目/CMU15445/lab笔记/lab4 并发控制.md",
+    "C++/项目/CMU15445/11 查询执行.md",
+    "C++/项目/CMU15445/14 查询优化Ⅱ.md",
+    "C++/项目/CMU15445/13 查询优化Ⅰ.md",
+    "算法/搜索与图论",
+    "图片/Pasted image 20231006225250.png",
+    "图片/Pasted image 20231004212543.png",
+    "算法/数据结构",
+    "图片/Pasted image 20230930230122.png",
+    "图片/Pasted image 20230930192618.png",
+    "图片/Pasted image 20230912013355.png",
+    "图片/Pasted image 20230823000503.png",
+    "图片/Pasted image 20230822233642.png",
+    "项目",
+    "Linux/Linux网络编程",
+    "未命名 1.canvas",
+    "未命名.canvas",
+    "未命名 2.canvas"
+  ]
+}
